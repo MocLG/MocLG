@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have dedicated six years to professional development and skill enhancement. As a self-taught software developer, I possess proficiency in the following programming languages.
+I have dedicated six years to professional development and skill enhancement. As a self-taught software developer, I possess proficiency in the following programming languages/frameworks.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/moclg1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lukagejak5@gmail.com) 
