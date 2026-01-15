@@ -9,8 +9,8 @@ I have dedicated six years to professional development and skill enhancement. As
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-streak-stats-ruby-mu.vercel.app?user=MocLG&theme=github-dark-blue&v=300" height="195" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MocLG&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true&layout=compact&langs_count=7&hide_border=false&v=300" height="195" />
+  <img src="https://github-readme-streak-stats-ruby-mu.vercel.app?user=MocLG&theme=github-dark-blue&v=400" height="195" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MocLG&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true&layout=compact&langs_count=7&hide_border=false&v=400" height="195" />
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=MocLG&icon=0&color=0)](https://visitcount.itsvg.in)
