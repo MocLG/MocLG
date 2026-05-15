@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a systems programmer and Linux Kernel Developer (`luka.gejak@linux.dev`). My core focus is on low-level system architecture, networking subsystems, and driver development.
+I am Luka Gejak, a systems programmer and Linux Kernel Developer (`luka.gejak@linux.dev`). My core focus is on low-level system architecture, networking subsystems, and driver development.
 
 My expertise includes:
 - **Linux Kernel Development:** Actively contributing patches and improvements to the `hsr` subsystem, as well as reviewing and contributing to the `staging/rtl8723bs` driver.
