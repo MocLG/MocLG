@@ -4,7 +4,7 @@ I am Luka Gejak, a systems programmer and Linux Kernel Developer (`luka.gejak@li
 My expertise includes:
 - **Linux Kernel Development:** Actively contributing patches and improvements to the `hsr` subsystem, as well as reviewing and contributing to the `staging/rtl8723bs` driver.
 - **Driver Porting:** Developing modern `mac80211`-based ports for legacy drivers. Most notably, porting the `rtl8723bs` and `rtl8723bu` drivers to the modern `rtw88` wireless framework to replace the legacy staging driver and rtl8xxxu driver.
-- **Android Custom Kernels:** Building and optimizing custom kernels, such as my 4.19.x kernel port for the Samsung Exynos990 series, specifically optimized for Kali NetHunter.
+- **Android Custom Kernels:** Building and optimizing custom kernels, such as my 4.19.x kernel port for the Samsung Exynos990 series, specifically optimized for Kali NetHunter, which is now **upstreamed to official Kali Nethunter repository**.
 - **Systems Engineering:** Building high-performance, terminal-based system utilities and engaging in hardware-level security research.
 
 ## 🌐 Socials:
